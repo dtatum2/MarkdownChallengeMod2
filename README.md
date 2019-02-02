@@ -17,6 +17,6 @@ I have *too much sauce*
 2. Apple
 3. Bose
 
-##I love the Mizzou weight room.
+## I love the Mizzou weight room.
 
-####I love the Mizzou rec.
+#### I love the Mizzou rec.
