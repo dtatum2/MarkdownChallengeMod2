@@ -28,6 +28,5 @@ I have *too much sauce*
 
 > I like to play a lot sports.
 > I really like playing basketball and football.
-Stop
-> These are the sports I think are the best
+> These are the sports I think are the best.
 ______________________________________________________________________________
