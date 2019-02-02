@@ -20,3 +20,8 @@ I have *too much sauce*
 ## I love the Mizzou weight room.
 
 #### I love the Mizzou rec.
+
+| Basketball | Football |
+| ------- | ----- |
+| NBA | NFL |
+| lebron james | tom brady |
