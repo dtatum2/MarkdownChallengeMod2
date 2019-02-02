@@ -36,3 +36,10 @@ ______________________________________________________________________________
 [Markdown 2](markdown2.md)
 
 ![tatum](https://cdn.nba.net/nba-drupal-prod/styles/landscape_2090w/s3/2017-08/jayson-tatum-portrait.jpg?itok=uLuckB1A.jpg)
+
+''' python
+print ( I love chicken.)
+print (It taste good.)
+print (Popeyes is the best kind of chicken.)
+''''
+
