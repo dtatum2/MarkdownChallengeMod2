@@ -32,3 +32,5 @@ I have *too much sauce*
 ______________________________________________________________________________
 
 ![Dog](https://boygeniusreport.files.wordpress.com/2016/11/puppy-dog.jpg?quality=98&strip=all)
+
+[Markdown 2](markdown2.md)
