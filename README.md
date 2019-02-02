@@ -6,3 +6,5 @@ Project for markdown project
 Big baller **shot caller**
 
 I have *too much sauce*
+
+~~I am not a hooper~~
